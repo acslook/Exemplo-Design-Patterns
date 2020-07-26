@@ -1,0 +1,13 @@
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\bin\Debug\netcoreapp3.1\ExemploAbstractFactory.exe
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\bin\Debug\netcoreapp3.1\ExemploAbstractFactory.deps.json
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\bin\Debug\netcoreapp3.1\ExemploAbstractFactory.runtimeconfig.json
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\bin\Debug\netcoreapp3.1\ExemploAbstractFactory.runtimeconfig.dev.json
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\bin\Debug\netcoreapp3.1\ExemploAbstractFactory.dll
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\bin\Debug\netcoreapp3.1\ExemploAbstractFactory.pdb
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\obj\Debug\netcoreapp3.1\ExemploAbstractFactory.csprojAssemblyReference.cache
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\obj\Debug\netcoreapp3.1\ExemploAbstractFactory.AssemblyInfoInputs.cache
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\obj\Debug\netcoreapp3.1\ExemploAbstractFactory.AssemblyInfo.cs
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\obj\Debug\netcoreapp3.1\ExemploAbstractFactory.csproj.CoreCompileInputs.cache
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\obj\Debug\netcoreapp3.1\ExemploAbstractFactory.dll
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\obj\Debug\netcoreapp3.1\ExemploAbstractFactory.pdb
+D:\Projetos\ExemploFactoryMethod\ExemploAbstractFactory\obj\Debug\netcoreapp3.1\ExemploAbstractFactory.genruntimeconfig.cache
